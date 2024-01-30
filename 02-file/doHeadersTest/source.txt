@@ -1,0 +1,22 @@
+24 - AWS Serverless API Gateway	
+362 - API Gateway Section Introduction.mp4
+363 - API Gateway Overview.mp4
+364 - API Gateway Basics Hands On.mp4
+365 - DVAC02 API Gateway Stages and Deployment.mp4
+366 - API Gateway Stages and Deployment Hands On.mp4
+367 - API Gateway Stages Configurations Hands On.mp4
+368 - API Gateway Canary Deployments.mp4
+369 - API Gateway Canary Deployments Hands On.mp4
+370 - DVAC02 API Gateway Integration Types Mappings.mp4
+371 - API Gateway Mapping Templates Hands On.mp4
+372 - DVAC02 API Gateway Open API.mp4
+373 - DVAC02 API Gateway Open API Hands On.mp4
+374 - API Gateway Caching.mp4
+375 - API Gateway Usage Plans API Keys.mp4
+376 - DVAC02 API Gateway Monitoring Logging and Tracing.mp4
+377 - API Gateway CORS Hands On.mp4
+378 - API Gateway Authentication and Authorization.mp4
+379 - API Gateway REST API vs HTTP API.mp4
+380 - API Gateway Websocket API.mp4
+381 - API Gateway Websocket API Hands On.mp4
+382 - API Gateway Architecture.mp4
