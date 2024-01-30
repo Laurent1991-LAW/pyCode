@@ -1,0 +1,2 @@
+[
+    {'season_num': 0, 'episode_num': '7', 'title': 'Dream Flight Disaster', 'rate': '6.5', 'description': '\n2017年12月31日，一架配置为水上飞机的轻型飞机在起飞后不久偏离航线并在澳大利亚悉尼附近坠毁。包括英国亿万富翁理查德·考辛斯在内的机上6人全部遇难。   '}, {'season_num': 0, 'episode_num': '9', 'title': 'Delivery to Disaster', 'rate': '6.4', 'description': '\n一架亚马逊货机潜入美国休斯顿郊外的沼泽中。收集到的证据最 终将调查人员引向具有长期失败和错误历史的飞行员。   '}, {'season_num': 0, 'episode_num': '3', 'title': 'Pressure Point', 'rate': '6.3', 'description': '\n撞上一座山，日本航空公司123成为历史上最致命的单架飞机事故，并威胁到全球747飞机的地面。   '}]
